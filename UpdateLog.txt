@@ -1,5 +1,6 @@
-- 2025 5/12
+- 2025 5/12 Update21
 Add UpdateLog.txt
 Add ReadMe(Japanese).txt
 Add ReadMe(English).txt
 Update app (v1,02)
+Add domain (app.tapioka-site.f5.si)
