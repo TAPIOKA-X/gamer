@@ -1,0 +1,5 @@
+- 2025 5/12
+Add UpdateLog.txt
+Add ReadMe(Japanese).txt
+Add ReadMe(English).txt
+Update app (v1,02)
