@@ -4,3 +4,4 @@ Add ReadMe(Japanese).txt
 Add ReadMe(English).txt
 Update app (v1,02)
 Add domain (app.tapioka-site.f5.si)
+domain SSL
