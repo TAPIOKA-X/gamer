@@ -5,7 +5,7 @@ Fixed ReadMe(English).txt
 - 2025 5/13
 App update (1,03)
 
-- 2025 5/12 Update23
+- 2025 5/12
 Add UpdateLog.txt
 Add ReadMe(Japanese).txt
 Add ReadMe(English).txt
