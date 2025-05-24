@@ -1,3 +1,8 @@
+- 2025 5/24
+Fixed ReadMe(Japanese).txt
+Fixed ReadMe(English).txt
+Update app (1,05)
+
 - 2025 5/14
 Fixed ReadMe(Japanese).txt
 Fixed ReadMe(English).txt
