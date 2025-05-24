@@ -3,8 +3,9 @@
 1. download 7zip.
 (https://www.7-zip.org/)
 
-2. use 7zip to unzip the 7z file. 
+2. use 7zip to unzip the 7z file (v1,05.7z). 3.
 
-3. Open the extracted folder and open “Tapioka-desktopApp-v1,05.exe”.
+Open the extracted folder and open the file with the “.exe” extension.
 
--The installation is complete.
+-Installation is complete.
+Translator: https://www.deepl.com/
