@@ -1,5 +1,5 @@
 - 2025 5/26
-Add NotWorking.txt
+Add NotWorking.txt (And NotWorking.txt update)
 All app update stop and all app working stop(Working stop TAPI-Homepage)
 
 - 2025 5/24
