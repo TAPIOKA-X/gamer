@@ -1,3 +1,7 @@
+- 2025 5/29
+Delete NotWorking.txt
+All app working :)
+
 - 2025 5/26
 Add NotWorking.txt (And NotWorking.txt update)
 All app update stop and all app working stop(Working stop TAPI-Homepage)
@@ -21,4 +25,4 @@ Add ReadMe(Japanese).txt
 Add ReadMe(English).txt
 Update app (v1,02)
 Add domain (app.tapioka-site.f5.si)
-domain SSL
+Add domain SSL
