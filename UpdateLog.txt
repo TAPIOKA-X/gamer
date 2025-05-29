@@ -2,7 +2,7 @@
 Fixed ReadMe(Japanese).txt
 Fixed ReadMe(English).txt
 Delete NotWorking.txt
-All app working :)
+All app working (TAPI-Homepage working again)
 
 - 2025 5/26
 Add NotWorking.txt (And NotWorking.txt update)
