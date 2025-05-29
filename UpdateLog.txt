@@ -1,4 +1,6 @@
 - 2025 5/29
+Fixed ReadMe(Japanese).txt
+Fixed ReadMe(English).txt
 Delete NotWorking.txt
 All app working :)
 
