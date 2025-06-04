@@ -1,5 +1,5 @@
 - 2025 6/4
-Update TAPI-HomePage for desktop(v1.06 Preview)
+Update TAPI-HomePage for desktop(v1.06)
 
 - 2025 5/29
 Fixed ReadMe(Japanese).txt
